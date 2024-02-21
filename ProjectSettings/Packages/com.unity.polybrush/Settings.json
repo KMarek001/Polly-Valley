@@ -1,0 +1,76 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Editor.FloatingWindow",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "RaiseLowerBrush.IgnoreOpenEdges",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "RaiseLowerBrush.StickToFirstAppliedDirection",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "SmoothBrush.IgnoreOpenEdges",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Scattering.UsePivotForPlacement",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Scattering.ParentObjectsWithSurface",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "Scattering.AvoidOverlappingObjects",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "UnityEngine.Polybrush.BrushMirror, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "Brush.MirrorAxis",
+                "value": "{\"m_Value\":0}"
+            },
+            {
+                "type": "UnityEngine.Polybrush.MirrorCoordinateSpace, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "Brush.MirrorSpace",
+                "value": "{\"m_Value\":0}"
+            },
+            {
+                "type": "UnityEngine.Polybrush.PolyDirection, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "RaiseLowerBrush.Direction",
+                "value": "{\"m_Value\":0}"
+            },
+            {
+                "type": "UnityEngine.Polybrush.PolyDirection, Unity.Polybrush, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "Brush.Direction",
+                "value": "{\"m_Value\":1}"
+            },
+            {
+                "type": "System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "RaiseLowerBrush.Strength",
+                "value": "{\"m_Value\":5.0}"
+            },
+            {
+                "type": "UnityEditor.Polybrush.PrefabLoadout, Unity.Polybrush.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "ScatteringEditor.userLoadout",
+                "value": "{\"m_Value\":{\"infos\":[{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":455957966157313408,\"guid\":\"decec03a9de484948b79da6219847d52\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":4114348814130154171,\"guid\":\"c185f4228ecc7b14cb47ae816197d6b4\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":6359112800851457702,\"guid\":\"c0695e50372965840badd7b84ed57617\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":6201417577865561771,\"guid\":\"936441e8ad7465e409c2285b778dfd8f\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":8944619187265165564,\"guid\":\"c2cb5e8a081a26c4a94df01eb6c4e44c\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":1486726653596827074,\"guid\":\"daf661d478fbcbf4791f00721500cb43\",\"type\":3}},{\"palette\":{\"fileID\":11400000,\"guid\":\"9c3ae8f1ba4cbb54aba07d446e1f70ae\",\"type\":2},\"prefab\":{\"fileID\":1026458569961160598,\"guid\":\"292c1954f8e2fd748857db06683062fb\",\"type\":3}}]}}"
+            },
+            {
+                "type": "System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "ScatteringEditor.PreviewThumSize",
+                "value": "{\"m_Value\":64}"
+            }
+        ]
+    }
+}
